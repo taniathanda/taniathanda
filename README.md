@@ -1,9 +1,6 @@
 # Hi there 👋, I'm Tania Thanda
 
-📫 How to reach me: [taniathandar@gmail.com](mailto:taniathandar@gmail.com) | [GitHub](https://github.com/taniathanda)
-
-LinkedIn: https://www.linkedin.com/in/aye-thanda-htun-b0267665
-[LinkedIn](https://www.linkedin.com/in/aye-thanda-htun-b0267665)
+📫 How to reach me: [taniathandar@gmail.com](mailto:taniathandar@gmail.com) |[LinkedIn](https://www.linkedin.com/in/aye-thanda-htun-b0267665) | [GitHub](https://github.com/taniathanda) 
  
 ⚡ Fun fact: I love sharing knowledge, learning new things, and volunteering to teach technology and English-speaking skills to underprivileged people. 
 # About Me
