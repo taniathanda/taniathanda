@@ -2,7 +2,7 @@
 
 💻 I’m passionate about **web development** and **open source**  
 🌱 I’m currently learning **React & Node.js**  
-📫 How to reach me: [taniathandar@gmail.com] | [LinkedIn]([https://linkedin.com/in/your-link](https://github.com/taniathanda))  
+📫 How to reach me: [taniathandar@gmail.com] | [LinkedIn]([[https://linkedin.com/in/your-link]()](https://github.com/taniathanda))  
 ⚡ Fun fact: I love solving coding challenges and exploring new tech  
 
 ---
