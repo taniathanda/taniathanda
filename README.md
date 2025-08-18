@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tania Thanda
 
-📫 How to reach me: [taniathandar@gmail.com](mailto:taniathandar@gmail.com) | [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/taniathanda)
+📫 How to reach me: [taniathandar@gmail.com](mailto:taniathandar@gmail.com) | [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/aye-thanda-htun-b0267665/)) | [GitHub](https://github.com/taniathanda)
  
 ⚡ Fun fact: I love sharing knowledge, learning new things, and volunteering to teach technology and English-speaking skills to underprivileged people. 
 # About Me
@@ -16,7 +16,7 @@
 - **Architecture**: Enterprise systems & software design  
 
 ## AI & Machine Learning
-- Currently pursuing a **Postgraduate Program in AI & Machine Learning** (completion: **December 2025**).  
+- Currently pursuing a **Postgraduate Program in AI & Machine Learning** at Fanshawe College, London, Ontario, Canada (completion: **December 2025**).  
 - Hands-on projects with **PyTorch** and **TensorFlow**:  
   - NLP (Natural Language Processing)  
   - ML Security  
@@ -34,6 +34,6 @@ My ambition is to **combine my 15 years of enterprise software expertise with AI
  
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/aye-thanda-htun-b0267665/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/aye-thanda-htun-b0267665])
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:tania.thandar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
