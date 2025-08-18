@@ -8,7 +8,9 @@
 - 🎓 Master’s degree in **Computer Science** with **15 years of experience** in software development.  
 - Designed, developed, and managed **enterprise software solutions** across **Finance, HR, and ERP** domains.  
 - Recently worked at **EY Corporate Advisor Pte. Ltd. (Singapore)**, one of the **Big Four** firms.  
-    - Built and maintained the **corporate tax system** integrated with **Singapore IRAS**.  
+    - Built and maintained the **corporate tax system** integrated with **Singapore IRAS**.
+    - <img width="1288" height="810" alt="image" src="https://github.com/user-attachments/assets/a6f2d424-b669-4ca0-a06a-85f103ae5a0e" />
+
 
 ## Technical Expertise
 - **Programming & Web**: C#, ASP.NET, HTML, CSS, JavaScript, Bootstrap  
