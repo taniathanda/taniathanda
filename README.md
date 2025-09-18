@@ -8,7 +8,7 @@
 - 🎓 Master’s degree in **Computer Science** with **15 years of experience** in software development.  
 - Designed, developed, and managed **enterprise software solutions** across **Finance, HR, and ERP** domains.  
 - Recently worked at **EY Corporate Advisor Pte. Ltd. (Singapore)**, one of the **Big Four** firms.  
-    - Built and maintained the **corporate tax system** integrated with **Singapore IRAS**.
+- Built and maintained the **corporate tax system** integrated with **Singapore IRAS**.
 
 ## Technical Expertise
 **AI/ML & Data Science (Familiar/Academic)**:     
@@ -18,15 +18,15 @@ Python, Tensorflow, PyTorch, scikit-learn, spaCy, SecML, Transformers, Large Lan
 Azure, Docker, Git/GitHub, DevOps Practices 
 
 **Programming & Web Development (Experienced)**:    
-•	Experienced: C#, ASP.Net, VB.Net, Javascript, Bootstrap, HTML, CSS3   
-•	Familiar/Academic: React.js, Node.js
+•	**Experienced**: C#, ASP.Net, VB.Net, Javascript, Bootstrap, HTML, CSS3   
+•	**Familiar/Academic**: React.js, Node.js
 
 **Frameworks & Architecture (Experienced)**:     
 .NET, Agile/Scrum, Software Development Life Cycle (SDLC)
 
 **Databases & Reporting (Experienced)**:    
-•	Experienced: SQL Server, Oracle, Crystal Reports     
-•	Familiar/Academic: MongoDB, PostgreSQL
+•	**Experienced**: SQL Server, Oracle, Crystal Reports     
+•	**Familiar/Academic**: MongoDB, PostgreSQL
 
 **Soft Skills (Experienced)**: 
 Team Collaboration & Professional Ethic, Troubleshooting & Problem-Solving, Stakeholder Management, Project Demonstration, User support, Mentoring & User Training
