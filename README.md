@@ -11,9 +11,26 @@
     - Built and maintained the **corporate tax system** integrated with **Singapore IRAS**.
 
 ## Technical Expertise
-- **Programming & Web**: C#, ASP.NET, HTML, CSS, JavaScript, Bootstrap  
-- **Databases**: MS SQL Server, Oracle  
-- **Architecture**: Enterprise systems & software design  
+**AI/ML & Data Science (Familiar/Academic)**: 
+Python, Tensorflow, PyTorch, scikit-learn, spaCy, SecML, Transformers, Large Language Models (LLMs), NLP, Optimization, Jupyter Notebook and Google Colab
+
+**Cloud & DevOps (Familiar/Academic)**:  
+Azure, Docker, Git/GitHub, DevOps Practices 
+
+**Programming & Web Development (Experienced)**:
+•	Experienced: C#, ASP.Net, VB.Net, Javascript, Bootstrap, HTML, CSS3
+•	Familiar/Academic: React.js, Node.js
+
+**Frameworks & Architecture (Experienced)**: 
+.NET, Agile/Scrum, Software Development Life Cycle (SDLC)
+
+**Databases & Reporting (Experienced)**:
+•	Experienced: SQL Server, Oracle, Crystal Reports 
+•	Familiar/Academic: MongoDB, PostgreSQL
+
+**Soft Skills (Experienced)**: 
+Team Collaboration & Professional Ethic, Troubleshooting & Problem-Solving, Stakeholder Management, Project Demonstration, User support, Mentoring & User Training
+ 
 
 ## AI & Machine Learning
 - Currently pursuing a **Postgraduate Program in AI & Machine Learning** at Fanshawe College, London, Ontario, Canada (completion: **December 2025**).  
