@@ -12,7 +12,7 @@
 
 ## Technical Expertise
 **AI/ML & Data Science (Familiar/Academic)**:     
-Python, Tensorflow, PyTorch, scikit-learn, spaCy, SecML, Transformers, Large Language Models (LLMs), NLP, Optimization, Jupyter Notebook and Google Colab
+Python, Tensorflow, PyTorch, scikit-learn, spaCy, SecML, Transformers, Large Language Models (LLMs), NLP, Optimization, Prompt Engineering, Jupyter Notebook and Google Colab
 
 **Cloud & DevOps (Familiar/Academic)**:  
 Azure, Docker, Git/GitHub, DevOps Practices 
